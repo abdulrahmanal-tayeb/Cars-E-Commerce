@@ -1,0 +1,130 @@
+{
+    "cars": [
+        {
+            "title": "2025 Tesla Model S",
+            "brand": "Tesla",
+            "seller": "John Doe",
+            "description": "The quickest and most capable electric vehicle ever. Plaid+ tri-motor AWD, insane acceleration, and a maximum range of 520 miles.",
+            "model": 2025,
+            "price": 135990,
+            "state": "New",
+            "mainImage": "https://images.pexels.com/photos/9799992/pexels-photo-9799992.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "images": [
+              "https://cars.usnews.com/cars-trucks/tesla/model-s/photos-interior",
+              "https://www.motortrend.com/news/2025-tesla-model-s-update-electric-sedan-future-cars/"
+            ]
+          },
+          {
+            "title": "2024 Rivian R1T",
+            "brand": "Rivian",
+            "seller": "Jane Doe",
+            "description": "The first electric adventure vehicle. All-electric, all-wheel drive, and ready for any adventure you can throw at it.",
+            "model": 2024,
+            "price": 84500,
+            "state": "Impacted",
+            "mainImage": "https://images.pexels.com/photos/9799992/pexels-photo-9799992.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "images": [
+              "https://images.pexels.com/photos/9799992/pexels-photo-9799992.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/10549262/pexels-photo-10549262.jpeg?auto=compress&cs=tinysrgb&w=600"
+            ]
+          },
+          {
+            "title": "2023 Ford Mustang Mach-E GT",
+            "brand": "Ford",
+            "seller": "Ali Hassan",
+            "description": "The all-electric version of the iconic Ford Mustang. Powerful performance and a sleek design make it a head-turner.",
+            "model": 2023,
+            "price": 60500,
+            "state": "New",
+            "mainImage": "https://images.pexels.com/photos/638479/pexels-photo-638479.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "images": [
+              "https://images.pexels.com/photos/638479/pexels-photo-638479.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/2127732/pexels-photo-2127732.jpeg?auto=compress&cs=tinysrgb&w=600"
+            ]
+          },
+          {
+            "title": "2024 Hyundai IONIQ 5",
+            "brand": "Hyundai",
+            "seller": "Omar Ahmed",
+            "description": "A feature-packed electric car with a spacious interior and impressive range. Perfect for families or long road trips.",
+            "model": 2024,
+            "price": 40950,
+            "state": "New",
+            "mainImage": "https://images.pexels.com/photos/11482358/pexels-photo-11482358.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "images": [
+              "https://images.pexels.com/photos/11482358/pexels-photo-11482358.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/11482358/pexels-photo-11482358.jpeg?auto=compress&cs=tinysrgb&w=600"
+            ]
+          },
+          {
+            "title": "2024 Porsche Taycan Turbo S",
+            "brand": "Porsche",
+            "seller": "Michael Lee",
+            "description": "Experience electrifying performance with mind-blowing acceleration and luxurious comfort. The Taycan Turbo S redefines the sports car.",
+            "model": 2024,
+            "price": 185900,
+            "state": "New",
+            "mainImage": "https://images.pexels.com/photos/24454937/pexels-photo-24454937/free-photo-of-porsche.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "images": [
+              "https://images.pexels.com/photos/24454937/pexels-photo-24454937/free-photo-of-porsche.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://www.porsche.com/usa/taycan/taycan-turbo-s/"
+            ]
+          },
+          {
+            "title": "2024 Audi e-tron GT",
+            "brand": "Audi",
+            "seller": "Sarah Jones",
+            "description": "A stunning all-electric coupe with a spacious interior and impressive handling. The e-tron GT delivers a thrilling driving experience.",
+            "model": 2024,
+            "price": 102900,
+            "state": "New",
+            "mainImage": "https://images.pexels.com/photos/20537185/pexels-photo-20537185/free-photo-of-view-of-a-red-audi-80-parked-on-a-field.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "images": [
+              "https://images.pexels.com/photos/20537185/pexels-photo-20537185/free-photo-of-view-of-a-red-audi-80-parked-on-a-field.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/909907/pexels-photo-909907.jpeg?auto=compress&cs=tinysrgb&w=600"
+            ]
+          },
+          {
+            "title": "2023 BMW iX",
+            "brand": "BMW",
+            "seller": "David Miller",
+            "description": "The future of luxury SUVs is here. The iX combines innovative technology, spacious comfort, and powerful performance.",
+            "model": 2023,
+            "price": 88200,
+            "state": "Impacted",
+            "mainImage": "https://images.pexels.com/photos/20511375/pexels-photo-20511375/free-photo-of-view-of-a-blue-bmw-m5-parked-in-front-of-a-modern-building.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "images": [
+              "https://images.pexels.com/photos/20511375/pexels-photo-20511375/free-photo-of-view-of-a-blue-bmw-m5-parked-in-front-of-a-modern-building.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/20449311/pexels-photo-20449311/free-photo-of-bmw-car-in-drifting-competition.jpeg?auto=compress&cs=tinysrgb&w=600"
+            ]
+          },
+          {
+            "title": "2024 Volvo XC40 Recharge",
+            "brand": "Volvo",
+            "seller": "Emily Garcia",
+            "description": "Safety and sustainability come together in the XC40 Recharge. This electric SUV offers a comfortable ride and advanced safety features.",
+            "model": 2024,
+            "price": 51250,
+            "state": "New",
+            "mainImage": "https://images.pexels.com/photos/17312712/pexels-photo-17312712/free-photo-of-volvo-xc40-on-paving-street.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "images": [
+              "https://images.pexels.com/photos/17312712/pexels-photo-17312712/free-photo-of-volvo-xc40-on-paving-street.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/15828802/pexels-photo-15828802/free-photo-of-blue-volvo-c40-recharge-on-an-asphalt-road.jpeg?auto=compress&cs=tinysrgb&w=600"
+            ]
+          },
+          {
+            "title": "2023 Chevrolet Bolt EUV",
+            "brand": "Chevrolet",
+            "seller": "William Chen",
+            "description": "A practical and affordable electric option for families. The Bolt EUV offers spacious seating and a comfortable ride.",
+            "model": 2023,
+            "price": 33000,
+            "state": "Impacted",
+            "mainImage": "https://images.pexels.com/photos/248687/pexels-photo-248687.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "images": [
+              "https://images.pexels.com/photos/248687/pexels-photo-248687.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/1280553/pexels-photo-1280553.jpeg?auto=compress&cs=tinysrgb&w=600"
+            ]
+          }
+    ]
+}
